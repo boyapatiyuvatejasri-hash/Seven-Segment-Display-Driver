@@ -1,0 +1,15 @@
+# 7-Segment Display Driver
+
+Intern ID: CITS2588
+
+## Objective
+Design and implement a 7-Segment Display Driver using Verilog HDL.
+
+## Components
+- 4-bit Input
+- 7-Segment Output
+- Verilog Implementation
+- Testbench Verification
+
+## Author
+Intern - CITS2588
